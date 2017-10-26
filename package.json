@@ -1,0 +1,21 @@
+{
+  "name": "grid-components",
+  "version": "0.1.0",
+  "description": "Dead simple grid for react using flexbox spec",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "grid",
+    "react",
+    "flex",
+    "flexbox"
+  ],
+  "author": "Bryan Willem",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.0.0",
+    "styled-components": "^2.2.2"
+  }
+}
