@@ -2,7 +2,7 @@
   "name": "grid-components",
   "version": "0.1.2",
   "description": "Dead simple grid for react using flexbox spec",
-  "main": "dist/index.ts",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "prepublishOnly": "npm run build",
