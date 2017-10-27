@@ -1,6 +1,9 @@
 # grid-components 
 a dead simple grid for react apps
  
+#### INSTALLATION
+npm i --save grid-components
+
 #### FLEX
 flex is the container component.
 
